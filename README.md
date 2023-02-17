@@ -7,7 +7,7 @@ The source file is a xlsx file named Budget.xlsx
 - you can display the evolution of your savings in the page épargne. 
 - display your expenses in dépenses. 
 - display your income in revenu. 
-_ add expenses/revenue in Transaction. 
+- add expenses/revenue in Transaction. 
 - follow the stock market (NYSE & EURONEXT) in Bourse. 
 - follow the crypto stock exchange market in Crypto exchange. 
 - Run a Trading bot that trades ETH-USDT in crypto exchange
