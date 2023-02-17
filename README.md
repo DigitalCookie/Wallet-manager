@@ -4,7 +4,7 @@ manage your wallet, stock exchange analysis, crypto exchange and trading bot
 
 This is a dash-pyhton web app where you can visualize your expenses and income according to different categories.
 The source file is a xlsx file named Budget.xlsx
-- you cand siplay the evolution of your savings in the page épargne. 
+- you can display the evolution of your savings in the page épargne. 
 - display your expenses in dépenses. 
 - display your income in revenu. 
 _ add expenses/revenue in Transaction. 
