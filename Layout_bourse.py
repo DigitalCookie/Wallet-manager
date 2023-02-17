@@ -1,3 +1,7 @@
+
+# STOCK EXCHANGE ANALYSIS PAGE
+
+
 import ccxt
 
 from fuctions import *
