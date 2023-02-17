@@ -310,8 +310,8 @@ def get_trade_recommendation(ticker_df):
 
 
 def execute_trade(trade_rec_type, trading_ticker):
-    Binance_APIkey = 'jovokP8FlgVgJQTgG3D2sLwWXgcUb1mUFFN2jjvuGaWPeh2JZfa7icLoIrLGbTGN'
-    Binance_APIsecret = 'iUIBvl2Rdz3gxSMXf798ujZ11IZHDh3zhskMwXERi3pC3fI5ZYbaQOByyW89xdH9'
+    Binance_APIkey = 'YOUR_API_KEY'
+    Binance_APIsecret = 'YOUR_API_SECRET'
 
     client = Client(Binance_APIkey, Binance_APIsecret)
     client.API_URL = 'https://testnet.binance.vision/api'
