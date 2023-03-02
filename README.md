@@ -29,17 +29,17 @@ You can follow the updates here.
 
 <img width="1440" alt="Capture d’écran 2023-03-02 à 10 26 39" src="https://user-images.githubusercontent.com/123557151/222388818-4734d316-a66a-41ac-bfd5-27b1bb4ea8d4.png">
 
--Expenses page:
+- Expenses page:
 
 <img width="1440" alt="Capture d’écran 2023-03-02 à 10 27 06" src="https://user-images.githubusercontent.com/123557151/222389019-4cb0d92a-b08a-4674-a5a8-70c4b31c8005.png">
 
 <img width="1440" alt="Capture d’écran 2023-03-02 à 10 27 12" src="https://user-images.githubusercontent.com/123557151/222389065-1919cdfe-4061-4d73-bb65-ff7d729db064.png">
 
--Income page :
+- Income page :
 <img width="1440" alt="Capture d’écran 2023-03-02 à 10 27 27" src="https://user-images.githubusercontent.com/123557151/222389134-807cdbd9-3702-4a1a-adb3-a8c3fb013ac2.png">
 <img width="1440" alt="Capture d’écran 2023-03-02 à 10 27 31" src="https://user-images.githubusercontent.com/123557151/222389163-2c3e93ef-7fea-409b-bc6e-1b31e946f5de.png">
 
--Transaction page :
+- Transaction page :
 <img width="1440" alt="Capture d’écran 2023-03-02 à 10 27 45" src="https://user-images.githubusercontent.com/123557151/222389229-cd13eca9-e99f-4755-aa3b-53f8e0823059.png">
 
 - Bourse page : 
